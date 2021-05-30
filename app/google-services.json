@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048708524333",
+    "project_id": "bookdb-b4919",
+    "storage_bucket": "bookdb-b4919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048708524333:android:366d74ca3d9b3547720ba4",
+        "android_client_info": {
+          "package_name": "com.example.tema3_timusandrei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048708524333-jthbbvn3gobq837e7tbuc24e858fb24d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7s6Z4QPh0oz-2wRk42UsUpGXDEq3vMsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048708524333-jthbbvn3gobq837e7tbuc24e858fb24d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
